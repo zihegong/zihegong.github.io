@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: "Hi, I'm John Doe!"
+title: "Zihe Gong"
 author_profile: true
 related: false
 header:
@@ -10,4 +10,4 @@ header:
 ---
 
 
-Hey! I'm programmer John Doe, welcome to my portfolio!
+A product designer working across homewares, accessories, and textile-based products. The practice focuses on material, functionality, and how everyday objects integrate naturally into daily life.
