@@ -104,15 +104,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "John Doe"
+  name             : "Zihe Gong"
   avatar           : "/assets/portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a professional programmer."
-  location         : "Canada"
+  bio              : "I am a product designer working across homewares, accessories, and textile-based products.
+My work focuses on material, functionality, and everyday usability."
+  location         : "Shanghai - China"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:johndoe@doe.com"
+      url: "zihegong@outlook.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://johndoe.com"
@@ -127,7 +128,7 @@ author:
       url: "https://johndoe.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://www.instagram.com/zihegong/"
 
 # Site Footer
 footer:
